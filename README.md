@@ -14,7 +14,7 @@ Tech Blog created to keep developers up to date with current tech news. Tech Blo
 - Javascript
 
 ## Screenshot
-![alt text](assets/images/dashboard.PNG)
+![alt text](assets/dashboard.PNG)
 
 ## Heroku Link
 https://quiet-escarpment-36399.herokuapp.com/
